@@ -1,0 +1,21 @@
+.nav {
+    background-color: blue;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+};
+
+h1{
+    font-size:60px;
+
+}
+a{
+    text-decoration: line-through;
+    color: white;
+
+}
+a:hover{
+    color: wheat;
+    font-size: 40px;
+    text-decoration: wavy;
+}
